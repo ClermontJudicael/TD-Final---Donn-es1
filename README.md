@@ -2,6 +2,8 @@
 
 ### Voici le MCD pour la base de donnée
 
+![MCD](./mcd.png)
+
 __1. La base de donnée pour le magasin en ligne__
 
 ```SQL
