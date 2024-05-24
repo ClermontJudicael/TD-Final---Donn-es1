@@ -1,3 +1,6 @@
+> Judicaël J1 STD23098 \
+> Rado J1 STD23099
+
 # EXO1: Fonctions d’agrégation
 
 ### Voici le MCD pour la base de donnée
